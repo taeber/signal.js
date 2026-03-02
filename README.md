@@ -2,6 +2,9 @@
 
 Signals implementation which utilizes `EventTarget`.
 
+_Blog post in which I wrote about this code:
+[taeber.com/words/2026-001-js-signals](https://taeber.rapczak.com/words/2026-001-js-signals/)_
+
 ```javascript
 /**
  * @template T

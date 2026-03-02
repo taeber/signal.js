@@ -72,4 +72,3 @@ function computed(base, transform) {
  * @template T
  * @typedef {ReadableSignal<T> & { (val: T): void }} Signal<T>
  */
-
